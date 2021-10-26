@@ -5,3 +5,4 @@
 - Cats http://thesecatsdonotexist.com
 - Startup https://thisstartupdoesnotexist.com
 - City http://thiscitydoesnotexist.com
+- Rental https://thisrentaldoesnotexist.com
